@@ -1,0 +1,9 @@
+python-dotenv
+langchain-openai
+langchain-core
+langchain-mcp-adapters
+langgraph
+mcp
+mcp-server-calculator
+mcp-server-time
+mcp-server-fetch
