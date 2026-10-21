@@ -5,10 +5,7 @@
 
 
 
-
-
-https://github.com/user-attachments/assets/08ce646e-7a6d-4d6b-95eb-74903bd6c017
-
+https://github.com/user-attachments/assets/388aa5fc-abdc-4714-b89d-167f5a5cfae8
 
 
 
@@ -21,6 +18,9 @@ https://github.com/user-attachments/assets/08ce646e-7a6d-4d6b-95eb-74903bd6c017
 
 
 
+
+
+----
 
 A LangGraph agent that uses ready-made MCP servers as tools and Grok (xAI) as the brain.
 
