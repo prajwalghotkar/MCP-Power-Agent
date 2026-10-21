@@ -1,5 +1,23 @@
 # MCP Power Agent
 
+----
+
+
+
+
+Uploading Screen Recording 2026-10-22 034011_squished.mp4…
+
+
+
+
+
+
+
+
+
+
+
+
 A LangGraph agent that uses ready-made MCP servers as tools and Grok (xAI) as the brain.
 
 Tools included: calculator, date/time, web page fetch, and optional weather.
